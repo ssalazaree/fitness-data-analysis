@@ -53,12 +53,5 @@ fitness-data-analysis
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository  
-2. Open the notebook in Jupyter  
-3. Run the cells step by step  
-
----
-
 ## 📎 Project Status
 Work in progress 🚧
